@@ -21,3 +21,8 @@
 *.i*86
 *.x86_64
 *.hex
+
+*.dep
+ARM/STM32L_MD6/Projects/eMD6/EWARM/settings
+ARM/STM32L_MD6/Projects/eMD6/EWARM/STM32L-DISCOVERY
+
